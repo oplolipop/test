@@ -1,0 +1,5 @@
+{{#user}}
+Name: Raghnath Gurumoorthy
+Skills: Python, C++, REST.api, AI, ML, CNN, RNN
+Email: raghunathgurumoorthy@gmail.com
+{{/user}}
